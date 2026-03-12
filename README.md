@@ -1,4 +1,5 @@
 # FinOps SQL Portfolio
+60+ production-grade SQL queries for multi-cloud FinOps (AWS CUR, Azure, GCP, Kubernetes cost allocation, RI coverage, rightsizing). Built with DuckDB from real billing & usage CSVs. Learning journey following structured FinOps SQL curriculum.
 
 Learning & building production-grade SQL queries for **multi-cloud cost analysis**  
 (AWS Cost & Usage Report, Azure Cost Export, GCP Billing Export, Kubernetes cost allocation, EC2 utilization, RI inventory, storage objects).
