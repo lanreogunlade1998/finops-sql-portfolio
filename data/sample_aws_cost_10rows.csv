@@ -1,0 +1,4 @@
+line_item_id,year,month,line_item_usage_start_date,line_item_product_code,line_item_unblended_cost,linked_account_name
+LI-sample1,2025,06,2025-06-01 00:00:00,AmazonEC2,123.45,prod-platform
+LI-sample2,2025,06,2025-06-01 00:00:00,AmazonRDS,89.12,prod-platform
+LI-sample3,2025,06,2025-06-02 00:00:00,AmazonS3,45.67,cx-platform
