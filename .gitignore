@@ -1,0 +1,11 @@
+# Data files (large or sensitive)
+*.csv
+*.parquet
+data/
+*.duckdb
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
